@@ -58,11 +58,3 @@ var app4 = new Vue({
   }
 })
 
-
-
-/*
-var app2 = new Vue({
-  el: '#app2',
-  data: {object:verse}
-})
-*/
